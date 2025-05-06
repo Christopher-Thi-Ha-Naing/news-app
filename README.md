@@ -1,16 +1,55 @@
-# news_app
+📰 Mini News App
 
-A new Flutter project.
+A lightweight Flutter app that displays trending and recent news articles using data from the NewsAPI. Built with Provider for state management and flutter_swiper_plus for a smooth UI experience.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 🚀 Features 
+🗞️ Fetches Top Trending News from NewsAPI
+🧾 Displays Recent News Articles
+🔄 Pull-to-Refresh (optional enhancement)
+🧩 Provider-based state management
+🎨 Clean Material Design with custom loading widgets
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Dependencies
+    According to pubspec.yaml
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧱 Folder Structure
+    lib/
+    │
+    ├── main.dart
+    ├── screens/
+    │   └── home_screen.dart
+    ├── widgets/
+    │   ├── top_trending.dart
+    │   ├── article_widget.dart
+    │   ├── toptrending_loading.dart
+    │   └── loading_widget.dart
+    ├── providers/
+    │   └── news_provider.dart
+    ├── services/
+    │   └── api_handler.dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🔧 Setup & Run
+1. Clone the repo
+ git clone https://github.com/Christopher-Thi-Ha-Naing/news-app.git
+ cd news-app
+
+2. Install Packages
+ flutter pub get
+
+3. Set up your NewsAPI key
+ Go to https://newsapi.org
+ Sign up and get your free API key.
+ Add it to your API handler file (API_handler.dart)
+
+4. Run the app
+ flutter run
+
+## 🛡️ License
+This project is for educational and demonstration purposes only. Make sure to comply with NewsAPI's Terms of Use.
+
+👨‍💻 Developer
+    Chris
+📧 christopher.thihanaing1996@gmail.com
+🔗 https://github.com/Christopher-Thi-Ha-Naing
