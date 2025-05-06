@@ -1,4 +1,4 @@
-📰 Mini News App
+## 📰 Mini News App
 
 A lightweight Flutter app that displays trending and recent news articles using data from the NewsAPI. Built with Provider for state management and flutter_swiper_plus for a smooth UI experience.
 
