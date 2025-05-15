@@ -53,7 +53,7 @@ class _NewsdetailScreenState extends State<NewsdetailScreen> {
         backgroundColor: Theme.of(context).scaffoldBackgroundColor,
         elevation: 0,
         centerTitle: true,
-        title: Text("Url", style: TextStyle(color: color)),
+        title: Text("News Detail", style: TextStyle(color: color)),
         actions: [
           IconButton(
             onPressed: () async {
