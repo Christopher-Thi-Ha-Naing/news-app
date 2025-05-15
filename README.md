@@ -11,14 +11,14 @@ A lightweight Flutter app that displays trending and recent news articles using 
 🎨 Clean Material Design with custom loading widgets
 
 ## Screenshots
-<table>
+<table border="0">
   <tr>
-    <td><img src="images/homePageSS.png" width="200"/></td>
-    <td><img src="images/topTrendingss.png" width="200"/></td>
+    <td align="center" style="padding: 10px;"><img src="images/homePageSS.png" width="200"/><br/><sub>Home Page</sub></td>
+    <td align="center" style="padding: 10px;"><img src="images/topTrendingss.png" width="200"/><br/><sub>Top Trending</sub></td>
   </tr>
   <tr>
-    <td><img src="images/themess.png" width="200"/></td>
-    <td><img src="images/newsss.png" width="200"/></td>
+    <td align="center" style="padding: 10px;"><img src="images/themess.png" width="200"/><br/><sub>Side Bar</sub></td>
+    <td align="center" style="padding: 10px;"><img src="images/newsss.png" width="200"/><br/><sub>News</sub></td>
   </tr>
 </table>
 
