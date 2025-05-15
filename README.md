@@ -11,16 +11,27 @@ A lightweight Flutter app that displays trending and recent news articles using 
 🎨 Clean Material Design with custom loading widgets
 
 ## Screenshots
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 30px;"><img src="images/homePageSS.png" width="200"/><br/><sub>Home Page</sub></td>
-    <td align="center" style="padding: 30px;"><img src="images/topTrendingss.png" width="200"/><br/><sub>Top Trending</sub></td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 30px;"><img src="images/themess.png" width="200"/><br/><sub>Side Bar</sub></td>
-    <td align="center" style="padding: 30px;"><img src="images/newsss.png" width="200"/><br/><sub>News</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="images/homePageSS.png" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/topTrendingss.png" width="200"/>
+</p>
+<p align="center">
+  <sub>Home Page</sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub>Top Trending</sub>
+</p>
+
+<p align="center">
+  <img src="images/themess.png" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/newsss.png" width="200"/>
+</p>
+<p align="center">
+  <sub>Side Bar</sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub>News</sub>
+</p>
 
 
 ## 📦 Dependencies
