@@ -10,6 +10,19 @@ A lightweight Flutter app that displays trending and recent news articles using 
 🧩 Provider-based state management
 🎨 Clean Material Design with custom loading widgets
 
+## Screenshots
+<table>
+  <tr>
+    <td><img src="images/homePageSS.png" width="200"/></td>
+    <td><img src="images/topTrendingss.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/themess.png" width="200"/></td>
+    <td><img src="images/newsss.png" width="200"/></td>
+  </tr>
+</table>
+
+
 ## 📦 Dependencies
     According to pubspec.yaml
 
